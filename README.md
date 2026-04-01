@@ -5,7 +5,7 @@ Passionate about transforming data into actionable insights and building intelli
 
 - 🎓 Pursuing **Data Science** with focus on practical ML applications
 - 🌱 Currently learning **Machine Learning, Deep Learning, and Generative AI**
-- 👨‍💻 All of my projects are available at **[siddagovardhanreddy33](https://github.com/siddagovardhanreddy33)**
+- 👨‍💻 All of my projects are available at **[siddagovardhanreddy33](https://github.com/siddagovardhanreddy33?tab=repositories)**
 - 💼 Actively preparing for **campus placements** and seeking Data Science roles
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, Deep Learning, SQL**
 - 📫 How to reach me:
@@ -50,11 +50,4 @@ Jupyter Notebook • VS Code • Git & GitHub
 Seeking **Data Scientist / ML Engineer** position where I can apply my analytical mindset and technical skills to solve complex business problems and drive data-driven decision making.
 
 ---
-
-## 📈 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddagovardhanreddy33&show_icons=true&theme=radical)
-
----
-
 💡 **Open to opportunities | Always learning | Let's connect and collaborate!**
