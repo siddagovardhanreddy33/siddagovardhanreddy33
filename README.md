@@ -1,97 +1,60 @@
-# Hi 👋 I'm Govardhan Reddy
+# Hi 👋, I'm Govardhan Reddy
+**Aspiring Data Scientist | ML Enthusiast**
+Passionate about transforming data into actionable insights and building intelligent solutions using Machine Learning and AI.
 
-🎯 Aspiring Data Scientist | Machine Learning Enthusiast
-📊 Passionate about turning data into meaningful insights
-🚀 Currently building strong foundations in Data Science
 
----
-
-## 🚀 About Me
-
-* 📚 Pursuing **Data Science**
-* 🤖 Learning **Machine Learning, Deep Learning, Generative AI**
-* 📊 Practicing **Data Analysis & EDA**
-* 🧠 Improving **Statistics & Problem Solving**
-* 💡 Interested in real-world AI applications
-
----
-
-## 🛠 Skills
-
-### Programming
-
-🐍 Python
-
-### Data Science Libraries
-
-🔢 NumPy
-🐼 Pandas
-
-### Data Analysis
-
-📊 Exploratory Data Analysis (EDA)
-📈 Statistics
-🧹 Data Cleaning & Preprocessing
-
-### Databases
-
-🗄️ MySQL
-
-### AI & ML
-
-🤖 Machine Learning
-🧠 Deep Learning
-✨ Generative AI
+- 🎓 Pursuing **Data Science** with focus on practical ML applications
+- 🌱 Currently learning **Machine Learning, Deep Learning, and Generative AI**
+- 👨‍💻 All of my projects are available at **[siddagovardhanreddy33](https://github.com/siddagovardhanreddy33)**
+- 💼 Actively preparing for **campus placements** and seeking Data Science roles
+- 💬 Ask me about **Python, Data Analysis, Machine Learning, Deep Learning, SQL**
+- 📫 How to reach me:
+  - 📧 **govardhanreddysidda@gmail.com**
+  - 🏢 **[LinkedIn](https://linkedin.com/in/sidda-govardhan-reddy)**
+- ⚡ Fun fact: **I see patterns in data where others see numbers!**
+- 🚀 **Transforming raw data into meaningful insights**
 
 ---
 
-## 📂 Learning Journey
+## 🛠️ Technical Arsenal:
 
-This profile contains my practice notebooks, datasets, and projects as I learn Data Science step-by-step.
+**Programming Language:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Topics I'm covering:
+**Data Science & Analytics:**  
+NumPy • Pandas • Matplotlib • Seaborn • Statistics • EDA
 
-* Python for Data Science
-* Data Analysis
-* EDA techniques
-* Statistics fundamentals
-* Feature Engineering
-* Model building (ML & DL)
-* Generative AI basics
+**Machine Learning & AI:**  
+Scikit-learn • Machine Learning • Deep Learning • Neural Networks • Generative AI
 
----
+**Database:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🎯 Goals
-
-✔ Build strong Data Science foundation
-✔ Work on real datasets
-✔ Create ML & AI projects
-✔ Contribute to open-source
-✔ Get Data Science role
+**Development Tools:**  
+Jupyter Notebook • VS Code • Git & GitHub
 
 ---
 
-## 📊 Tools I Use
+## 📊 What I'm Working On:
 
-* Jupyter Notebook 📓
-* VS Code 💻
-* Git & GitHub 🔧
-* MySQL 🗄️
-
----
-
-## 📈 Current Focus
-
-Learning daily and building projects to improve practical knowledge in:
-**ML | DL | GenAI | Data Analysis | Statistics**
+✅ Building end-to-end **ML projects** with real-world datasets  
+✅ Mastering **statistical analysis** and **exploratory data analysis**  
+✅ Implementing **deep learning** models and architectures  
+✅ Exploring **Generative AI** and LLM applications  
+✅ Solving **data challenges** to sharpen problem-solving skills  
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 Career Goal:
 
-📧 email : govardhanreddysidda@gmail.com
-🔗 LinkedIn : linkedin.com/in/sidda-govardhan-reddy
+Seeking **Data Scientist / ML Engineer** position where I can apply my analytical mindset and technical skills to solve complex business problems and drive data-driven decision making.
 
 ---
 
-⭐ Always learning | Always building | Always improving
+## 📈 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddagovardhanreddy33&show_icons=true&theme=radical)
+
+---
+
+💡 **Open to opportunities | Always learning | Let's connect and collaborate!**
