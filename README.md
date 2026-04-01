@@ -89,8 +89,8 @@ Learning daily and building projects to improve practical knowledge in:
 
 ## 🤝 Connect With Me
 
-📧 Add your email here
-🔗 Add LinkedIn profile here
+📧 email : govardhanreddysidda@gmail.com
+🔗 LinkedIn : linkedin.com/in/sidda-govardhan-reddy
 
 ---
 
