@@ -64,26 +64,10 @@ Passionate about transforming data into actionable insights and building intelli
 
 ---
 
-## 📊 What I'm Working On:
-
-✅ Building end-to-end **ML projects** with real-world datasets  
-✅ Mastering **statistical analysis** and **exploratory data analysis**  
-✅ Implementing **deep learning** models and architectures  
-✅ Exploring **Generative AI** and LLM applications  
-✅ Solving **data challenges** to sharpen problem-solving skills  
-
----
 
 ## 🎯 Career Goal:
 
 Seeking **Data Scientist / ML Engineer** position where I can apply my analytical mindset and technical skills to solve complex business problems and drive data-driven decision making.
-
----
-
-## 📈 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddagovardhanreddy33&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddagovardhanreddy33&layout=compact&theme=radical)
 
 ---
 
